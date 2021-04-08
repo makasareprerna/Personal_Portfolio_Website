@@ -16,11 +16,7 @@ let resumeData = {
           "url":"https://github.com/makasareprerna",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+        
       ],
     "aboutme":"  I beleive that there is nothing to fear, because you cannot fail you could only learn, grow, and become better than you’ve ever been before. To be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"United States",
